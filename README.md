@@ -1,5 +1,8 @@
 # 410c-sensor
 
+For China users, need to update the sources.list to choose the faster local Debian servers.
+/etc/
+
 Update SnapDragon410c board with Debian Linux (LXQT)
 1. sudo apt-get update
 2. sudo apt-get dist-upgrade -u
