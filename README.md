@@ -13,6 +13,11 @@ Update SnapDragon410c board with Debian Linux (LXQT)
    - libmraa-dev:	includes header files to compile program using libmraa
    - libupm0:		contains only libupm run-time library
    - libupm-dev:	includes header files to compile program using libupm
+
+
+Need to export LD_LIBRARY_PATH for the libbmm150.so file path.
+
+
    
 
 # Pin Mapping
