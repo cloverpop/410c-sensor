@@ -1,0 +1,3 @@
+[submodule "BHy1_driver_and_MCU_solution"]
+	path = BHy1_driver_and_MCU_solution
+	url = https://github.com/BoschSensortec/BHy1_driver_and_MCU_solution
