@@ -1,3 +1,6 @@
 [submodule "BHy1_driver_and_MCU_solution"]
 	path = BHy1_driver_and_MCU_solution
 	url = https://github.com/BoschSensortec/BHy1_driver_and_MCU_solution
+[submodule "Monitoring_DragonBoard410c"]
+	path = Monitoring_DragonBoard410c
+	url = https://github.com/AnumSheraz/Monitoring_DragonBoard410c
