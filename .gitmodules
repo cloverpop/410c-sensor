@@ -4,3 +4,6 @@
 [submodule "Monitoring_DragonBoard410c"]
 	path = Monitoring_DragonBoard410c
 	url = https://github.com/AnumSheraz/Monitoring_DragonBoard410c
+[submodule "BMP3-Sensor-API"]
+	path = BMP3-Sensor-API
+	url = https://github.com/BoschSensortec/BMP3-Sensor-API
