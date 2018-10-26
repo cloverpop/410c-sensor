@@ -45,7 +45,6 @@ Pin mapping table shows signals pertaining to 40-pin low speed expansion header 
 |+5V	|	37	|	38	|	SYC_DCIN	|
 |GND	|	39	|	40	|	GND		|
 
-410C Board GPIO Definition
 ![](https://github.com/cloverpop/410c-sensor/blob/master/jpg/db_pinout.png)
 
 ![](https://github.com/cloverpop/410c-sensor/blob/master/jpg/410c-gpio.jpg)
