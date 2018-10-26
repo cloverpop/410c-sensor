@@ -17,34 +17,38 @@ Update SnapDragon410c board with Debian Linux (LXQT)
 
 Need to export LD_LIBRARY_PATH for the libbmm150.so file path.
 
-
    
 
 # Pin Mapping
 Pin mapping table shows signals pertaining to 40-pin low speed expansion header based on 96Boards Consumer Edition Specification.
 
-96Boards SignalsPIN	PIN	96Boards Signals
-GND		1	2	GND
-UART0_CTS	3	4	PWR_BTN_N
-UART0_TxD	5	6	RST_BTN_N
-UART0_RxD	7	8	SPI0_SCLK
-UART1_RTS	9	10	SPI0_DIN
-UART1_TxD	11	12	SPI0_CS
-UART1_RxD	13	14	SPI0_DOUT
-I2C0_SCL	15	16	PCM_FS
-I2C0_SDA	17	18	PCM_CLK
-I2C1_SCL	19	20	PCM_DO
-I2C1_SDA	21	22	PCM_DI
-GPIO-A		23	24	GPIO-B
-GPIO-C		25	26	GPIO-D
-GPIO-E		27	28	GPIO-F
-GPIO-G		29	30	GPIO-H
-GPIO-I		31	32	GPIO-J
-GPIO-K		33	34	GPIO-L
-+1V8		35	36	SYS_DCIN
-+5V		37	38	SYC_DCIN
-GND		39	40	GND
+| 96Boards Signals	|PIN    |  PIN  |  96Boards    Signals | 
+| --------        	| -----:| :----:|                :----:|
+|GND		  	|  1	|      2|	GND   		|
+|UART0_CTS|	3	|	4	|	PWR_BTN_N	|
+|UART0_TxD|	5	|	6	|	RST_BTN_N	|
+|UART0_RxD|	7	|	8	|	SPI0_SCLK	|
+|UART1_RTS|	9	|	10	|	SPI0_DIN	|
+|UART1_TxD|	11	|	12	|	SPI0_CS		|
+|UART1_RxD|	13	|	14	|	SPI0_DOUT	|
+|I2C0_SCL|	15	|	16	|	PCM_FS		|
+|I2C0_SDA|	17	|	18	|	PCM_CLK		|
+|I2C1_SCL|	19	|	20	|	PCM_DO		|
+|I2C1_SDA|	21	|	22	|	PCM_DI		|
+|GPIO-A	|	23	|	24	|	GPIO-B		|
+|GPIO-C	|	25	|	26	|	GPIO-D		|
+|GPIO-E	|	27	|	28	|	GPIO-F		|
+|GPIO-G	|	29	|	30	|	GPIO-H		|
+|GPIO-I	|	31	|	32	|	GPIO-J		|
+|GPIO-K	|	33	|	34	|	GPIO-L		|
+|+1V8	|	35	|	36	|	SYS_DCIN	|
+|+5V	|	37	|	38	|	SYC_DCIN	|
+|GND	|	39	|	40	|	GND		|
 
+410C Board GPIO Definition
+![](https://github.com/cloverpop/410c-sensor/blob/master/jpg/db_pinout.png)
+
+![](https://github.com/cloverpop/410c-sensor/blob/master/jpg/410c-gpio.jpg)
 
 # Reference:
 
