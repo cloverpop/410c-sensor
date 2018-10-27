@@ -7,3 +7,6 @@
 [submodule "BMP3-Sensor-API"]
 	path = BMP3-Sensor-API
 	url = https://github.com/BoschSensortec/BMP3-Sensor-API
+[submodule "libsoc"]
+	path = libsoc
+	url = https://github.com/jackmitch/libsoc
