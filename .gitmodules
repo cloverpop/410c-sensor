@@ -13,3 +13,9 @@
 [submodule "96BoardsGPIO"]
 	path = 96BoardsGPIO
 	url = https://github.com/96boards/96BoardsGPIO
+[submodule "upm"]
+	path = upm
+	url = https://github.com/intel-iot-devkit/upm
+[submodule "mraa"]
+	path = mraa
+	url = https://github.com/intel-iot-devkit/mraa
