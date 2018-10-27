@@ -10,3 +10,6 @@
 [submodule "libsoc"]
 	path = libsoc
 	url = https://github.com/jackmitch/libsoc
+[submodule "96BoardsGPIO"]
+	path = 96BoardsGPIO
+	url = https://github.com/96boards/96BoardsGPIO
