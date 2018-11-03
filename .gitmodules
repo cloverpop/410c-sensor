@@ -19,3 +19,6 @@
 [submodule "mraa"]
 	path = mraa
 	url = https://github.com/intel-iot-devkit/mraa
+[submodule "dt-update"]
+	path = dt-update
+	url = https://github.com/96boards/dt-update
